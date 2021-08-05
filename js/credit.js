@@ -5,7 +5,7 @@
 /////////////////////////////////////////////////////////
 
 try {
-  var credits = document.getElementById('credits';
+  var credits = document.getElementById('credits');
 } catch(e) {
   throw("Error while getting \"credits\" DIV: "+e);
 }
